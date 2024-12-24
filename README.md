@@ -1,1 +1,2 @@
 # HIGHCLOUD-AIRLINES-PROJECT
+Developed a comprehensive data analysis project for HighCloud Airlines using Excel, Power BI, Tableau, and MySQL. Cleaned and analyzed data in Excel, queried the database using MySQL, and created dynamic dashboards in Power BI and Tableau to visualize revenue trends, passenger metrics, and operational KPIs. The project provided actionable insights to enhance operational efficiency and revenue performance.
